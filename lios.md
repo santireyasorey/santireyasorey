@@ -3,8 +3,13 @@ layout: page
 title: Mis lios
 permalink: /lios/
 ---
+>En esta vida nos van a recordar por nuestros actos.
+Tal vez sea por eso que no paro de hacer cosas, es como una necesidad. No la de ser recordado, sino la de ayudar en lo que pueda a quien me rodea. Muchas veces me paro y reflexiono, 
+>Santi... y si te centras, seguro que serás mucho más efectivo...
+y en ese momento pasa por delante la posibilidad de participar en un proyecto nuevo y zas...ya estoy liado.
+En está web iré colgando aquellos proyectos en los que estoy "liado". Si queréis proponerme algún proyecto, ADELANTE! 
+Pero ojo, porque puede que acepte.
 
-En este espacio iran apareciendo los diferentes "lios" en los que me meto, o me meten, que soy fácil de convencer.
 <hr/>
 
 | Internet de tu Color Favorito | BricolabsPodcast | Otro MetaPodcast |
