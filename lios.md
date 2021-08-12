@@ -16,7 +16,7 @@ Pero ojo, porque puede que acepte.
 
 ## Internet de tu Color Favorito
 
-> O lo que viene siendo una escusa para seguir jugando con tus hermanos, como cuando éramos niños.
+<blockquote> O lo que viene siendo una escusa para seguir jugando con tus hermanos, como cuando éramos niños.</blockquote>
 
 <img src="{{ site.baseurl }}/images/lios/reybrothers1.jpg" alt="Los Rey Brothers" style="width: 100%;"/>
 
