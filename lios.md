@@ -5,6 +5,7 @@ permalink: /lios/
 ---
 
 En este espacio iran apareciendo los diferentes "lios" en los que me meto, o me meten, que soy fácil de convencer.
+<hr/>
 
 | Internet de tu Color Favorito | BricolabsPodcast | Otro MetaPodcast |
 | -- | -- | -- |
