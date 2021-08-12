@@ -15,6 +15,7 @@ Pero ojo, porque puede que acepte.
 <hr/>
 
 ## Internet de tu Color Favorito
+
 > O lo que viene siendo una escusa para seguir jugando con tus hermanos, como cuando éramos niños.
 
 <img src="{{ site.baseurl }}/images/lios/reybrothers1.jpg" alt="Los Rey Brothers" style="width: 100%;"/>
