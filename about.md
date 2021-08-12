@@ -19,10 +19,6 @@ Todo lo que aprendo, procuro guardarlo en mi mochila y lo comparto a través de 
 
 - [Enlace al Podcast](https://www.ivoox.com/podcast-internet-de-tu-color-favorito-atlantics_sq_f1569392_1.html)
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Para contactar de forma responsable
-
-[en My Public Inbox](https://mypublicinbox.com/SantiRey)
+### Contacto
+Tengo redes sociales, pero para contactar de forma responsable prefiero que lo hagas por [My Public Inbox](https://mypublicinbox.com/SantiRey)
