@@ -17,7 +17,7 @@ Todo lo que aprendo, procuro guardarlo en mi mochila y lo comparto a través de 
 
 ¡Ah! Casi lo olvido. Uno de los últimos sitios en los que me he parado es en La Radio. Desde hace dos años co-dirijo #InternetDeTuColorFavorito en CUAC FM, una emisora comunitaria de mi queridísima A Coruña.
 
-[enlace al Podcast](https://www.ivoox.com/podcast-internet-de-tu-color-favorito-atlantics_sq_f1569392_1.html)
+- [Enlace al Podcast](https://www.ivoox.com/podcast-internet-de-tu-color-favorito-atlantics_sq_f1569392_1.html)
 
 ### More Information
 
