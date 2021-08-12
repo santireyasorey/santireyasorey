@@ -31,7 +31,7 @@ El objetivo es ayudar. Crear un espacio en el que se hable de estas cosas, eso s
 
 Desde principios de 2019 empezamos a grabar los episodios en video y los subimos a Youtube.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLr--UBvxz6MVkvqa-5PeSN8bWKb92YAW5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLr--UBvxz6MVkvqa-5PeSN8bWKb92YAW5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Formando desde AtlanTICs
 
