@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre mi
+permalink: /santi/
 ---
 
 Hola, me llamo Santi Rey y soy un buscador incansable. Eso puede ser una virtud o no. Como decimos en Galicia...depende. Realmente no se a donde voy, pero lo que si hago es disfrutar del viaje.
