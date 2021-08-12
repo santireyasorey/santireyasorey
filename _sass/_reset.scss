@@ -35,6 +35,11 @@ ol, ul {
 	list-style: none;
 }
 blockquote, q {
+	 display: block;
+ 	 margin-top: 1em;
+  	margin-bottom: 1em;
+  	margin-left: 40px;
+ 	 margin-right: 40px;
 	quotes: none;
 }
 blockquote:before, blockquote:after,
