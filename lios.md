@@ -27,6 +27,12 @@ Programa divulgativo que se realiza y produce desde AtlanTICs por esos "irrespon
 
 <iframe src="https://www.ivoox.com/player_es_podcast_569392_1.html" width="100%" style="border: 1px solid #D7D7D7;" height="440" frameborder="0" allowfullscreen="0" scrolling="no" ></iframe>
 
+El objetivo es ayudar. Crear un espacio en el que se hable de estas cosas, eso sí, siempre al #EstiloAtlanTICs
+
+Desde principios de 2019 empezamos a grabar los episodios en video y los subimos a Youtube.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLr--UBvxz6MVkvqa-5PeSN8bWKb92YAW5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Formando desde AtlanTICs
 
 ## Cursos DPP
