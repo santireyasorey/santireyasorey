@@ -19,7 +19,7 @@ Todo lo que aprendo, procuro guardarlo en mi mochila y lo comparto a través de 
 
 - [Enlace al Podcast](https://www.ivoox.com/podcast-internet-de-tu-color-favorito-atlantics_sq_f1569392_1.html)
 
-[<img src="{{ site.baseurl }}/images/santienclase.jpg" alt="Santi en clase" style="width: 400px;"/>]
+<img src="{{ site.baseurl }}/images/santienclase.jpg" alt="Santi en clase" style="width: 400px;"/>
 
 ### Contacto
 Tengo redes sociales, pero para contactar de forma responsable prefiero que lo hagas por [My Public Inbox](https://mypublicinbox.com/SantiRey)
