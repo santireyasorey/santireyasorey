@@ -35,12 +35,13 @@ ol, ul {
 	list-style: none;
 }
 blockquote, q {
-	 display: block;
- 	 margin-top: 1em;
-  	 margin-bottom: 1em;
-  	 margin-left: 40px;
- 	 margin-right: 40px;
-  	 color: #0066cc;
+	display: block;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 40px;
+	margin-right: 40px;
+ 	color: #0066cc;
+	font-style: italic;
 	
 }
 blockquote:before, blockquote:after,
