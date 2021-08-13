@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Cursos DPP
-permalink: /pages/dpp/
+permalink: /dpp/
 ---
