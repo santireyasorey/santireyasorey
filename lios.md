@@ -20,11 +20,8 @@ Pero ojo, porque puede que acepte.
 
 <figure>
   <img src="{{ site.baseurl }}/images/lios/reybrothers1.jpg" alt="Los Rey Brothers"/>
-  <figcaption>Los Rey Brothers</figcaption>
+  <figcaption>Los Rey Brothers en el FLISOL Coruña 2019</figcaption>
 </figure>
-
-
-<img src="{{ site.baseurl }}/images/lios/reybrothers1.jpg" alt="Los Rey Brothers" style="width: 100%;"/>*image_caption*
 
 Uno de los proyectos más motivadores, para mi, que han surgido del seno de AtlanTICs. Era algo que tenía que pasar. La comunicación es algo que nos apasiona a los que formamos #InternetDeTuColorFavorito. Por eso teníamos que acabar haciendo este programa divulgativo que se realiza y produce desde AtlanTICs por unos absolutos "irresponsables" como somos los #ReyBrothers, expresión acuñada por Carlos Lagarón. 
 
@@ -32,7 +29,10 @@ Uno de los proyectos más motivadores, para mi, que han surgido del seno de Atla
 
 Hablamos de Tecnología, Educación y Familias o todo lo que quepa dentro de ese triángulo maléfico que formado por los Menores, Adultos y Tecnología. 
 
-<img src="{{ site.baseurl }}/images/lios/reybrothers2.jpg" alt="Los Rey Brothers" style="width: 100%;"/>*image_caption*
+<figure>
+  <img src="{{ site.baseurl }}/images/lios/reybrothers2.jpg" alt="Los Rey Brothers"/>
+  <figcaption>Los Rey Brothers en CUAC FM</figcaption>
+</figure>
 
 <iframe src="https://www.ivoox.com/player_es_podcast_569392_1.html" width="100%" style="border: 1px solid #D7D7D7;" height="440" frameborder="0" allowfullscreen="0" scrolling="no" ></iframe>
 
@@ -45,11 +45,18 @@ Desde principios de 2019 empezamos a grabar los episodios en video y los subimos
 ## Formando desde AtlanTICs
 Tanto en mi ámbito profesional como en vida privada, observo constantemente como los padres y educadores tenemos muchas dudas en lo relacionado con las Tecnologías de la Información y la Comunicación (TIC's). No me estoy refiriendo a saber más o menos de informática, quiero decir que existen muchos falsos mitos, mucha lagunas que cubrir sobre lo que se debe o no se debe hacer y/o saber en Internet.
 
-<img src="{{ site.baseurl }}/images/lios/santi_con_alumno.jpg" alt="Talleres en el aula" style="width: 100%;"/>
+<figure>
+  <img src="{{ site.baseurl }}/images/lios/santi_con_alumno.jpg" alt="Los Rey Brothers"/>
+  <figcaption>Talleres en el aula</figcaption>
+</figure>
 
 Es por ello que hace unos años adquirí un compromiso: ayudar a aclarar dudas y proporcionar herramientas para, entre todos garantizar el Uso Seguro y Responsable de nuestros hijos en los múltiples entornos digitales en los que se mueven. Ellos han nacido en este entorno, los llamamos erróneamente Nativos Digitales (si es que eso existe) pero para nosotros es ajeno, extraño, y esa es una situación que tenemos que corregir. Ya que por más que nos lo parezca, no es una moda pasajera. Creo que ya todos vamos tomando consciencia de que Internet, la Red de Redes, ha venido para quedarse y debemos ponernos al día.
 
-<img src="{{ site.baseurl }}/images/lios/santi_enelaulaCSIF.jpg" alt="Formación a profesionales" style="width: 100%;"/>
+<figure>
+  <img src="{{ site.baseurl }}/images/lios/santi_enelaulaCSIF.jpg" alt="Los Rey Brothers"/>
+  <figcaption>Formación a profesionales</figcaption>
+</figure>
+
 Para esto nace AtlanTICs, para ayudar a quien quiera ser ayudado. Buscamos fomentar el Uso Seguro y Responsable de la Tecnología. Creemos que la carencia de Alfabetización Digital no es una cuestión exclusivamente de los menores, sino un problema social. Promovemos eventos, charlas, cursos… y todo aquello que contribuya a fomentar las Habilidades Digitales.
 
 ## Cursos DPP
