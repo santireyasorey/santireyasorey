@@ -13,7 +13,7 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
+figure, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -22,6 +22,17 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+}
+
+figcaption {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 50%;
+	font: inherit;
+	horizontal-aling: center;
+	vertical-align: baseline;
+	font-style: italic;
 }
 // HTML5 display-role reset for older browsers
 article, aside, details, figcaption, figure,
