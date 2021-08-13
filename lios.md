@@ -37,6 +37,13 @@ Desde principios de 2019 empezamos a grabar los episodios en video y los subimos
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/videoseries?list=PLr--UBvxz6MVkvqa-5PeSN8bWKb92YAW5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Formando desde AtlanTICs
+Tanto en mi ámbito profesional como en vida privada, observo constantemente como los padres y educadores tenemos muchas dudas en lo relacionado con las Tecnologías de la Información y la Comunicación (TIC's). No me estoy refiriendo a saber más o menos de informática, quiero decir que existen muchos falsos mitos, mucha lagunas que cubrir sobre lo que se debe o no se debe hacer y/o saber en Internet.
+
+<img src="{{ site.baseurl }}/images/lios/santi_con_alumno.jpg" alt="Talleres en el aula" style="width: 100%;"/>
+
+Es por ello que hace unos años adquirí un compromiso: ayudar a aclarar dudas y proporcionar herramientas para, entre todos garantizar el Uso Seguro y Responsable de nuestros hijos en los múltiples entornos digitales en los que se mueven. Ellos han nacido en este entorno, los llamamos erróneamente Nativos Digitales (si es que eso existe) pero para nosotros es ajeno, extraño, y esa es una situación que tenemos que corregir. Ya que por más que nos lo parezca, no es una moda pasajera. Creo que ya todos vamos tomando consciencia de que Internet, la Red de Redes, ha venido para quedarse y debemos ponernos al día.
+
+<img src="{{ site.baseurl }}/images/lios/santi_enelaulaCSIF.jpg" alt="Formación a profesionales" style="width: 100%;"/>
 
 ## Cursos DPP
 
