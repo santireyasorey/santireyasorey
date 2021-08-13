@@ -20,7 +20,6 @@ Pero ojo, porque puede que acepte.
 
 ## Cursos DPP
 
-## BricolabsPodcast
 
 ## Otro MetaPodcast
 
