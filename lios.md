@@ -18,7 +18,7 @@ Pero ojo, porque puede que acepte.
 
 > O lo que viene siendo una escusa para seguir jugando con tus hermanos, como cuando éramos niños.
 
-<img src="{{ site.baseurl }}/images/lios/reybrothers1.jpg" alt="Los Rey Brothers" style="width: 100%;"/>
+<img src="{{ site.baseurl }}/images/lios/reybrothers1.jpg" alt="Los Rey Brothers" style="width: 100%;"/>*image_caption*
 
 Uno de los proyectos más motivadores, para mi, que han surgido del seno de AtlanTICs. Era algo que tenía que pasar. La comunicación es algo que nos apasiona a los que formamos #InternetDeTuColorFavorito. Por eso teníamos que acabar haciendo este programa divulgativo que se realiza y produce desde AtlanTICs por unos absolutos "irresponsables" como somos los #ReyBrothers, expresión acuñada por Carlos Lagarón. 
 
@@ -26,7 +26,7 @@ Uno de los proyectos más motivadores, para mi, que han surgido del seno de Atla
 
 Hablamos de Tecnología, Educación y Familias o todo lo que quepa dentro de ese triángulo maléfico que formado por los Menores, Adultos y Tecnología. 
 
-<img src="{{ site.baseurl }}/images/lios/reybrothers2.jpg" alt="Los Rey Brothers" style="width: 100%;"/>
+<img src="{{ site.baseurl }}/images/lios/reybrothers2.jpg" alt="Los Rey Brothers" style="width: 100%;"/>*image_caption*
 
 <iframe src="https://www.ivoox.com/player_es_podcast_569392_1.html" width="100%" style="border: 1px solid #D7D7D7;" height="440" frameborder="0" allowfullscreen="0" scrolling="no" ></iframe>
 
