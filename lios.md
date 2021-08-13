@@ -22,10 +22,7 @@ Pero ojo, porque puede que acepte.
 
 ## BricolabsPodcast
 
-
 ## Otro MetaPodcast
-
-
 
 ### Contacto
 Tengo redes sociales, pero para contactar de forma responsable prefiero que lo hagas por [My Public Inbox](https://mypublicinbox.com/SantiRey)
