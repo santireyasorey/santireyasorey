@@ -14,7 +14,7 @@ Pero ojo, porque puede que acepte.
 
 <hr/>
 
-| [Internet de tu Color Favorito]({{ site.baseurl }}/pages/icf) | [Formando desde AtlanTICs]({{ site.baseurl }}/pages/atlantics) | [Cursos DPP]({{ site.baseurl }}/pages/dpp) |
+| [Internet de tu Color Favorito]({{ site.baseurl }}/icf) | [Formando desde AtlanTICs]({{ site.baseurl }}/atlantics) | [Cursos DPP]({{ site.baseurl }}/dpp) |
 | -- | -- | -- |
 | <img src="{{ site.baseurl }}/images/santienclase.jpg" alt="Santi en clase" style="width: 400px;"/> | <img src="{{ site.baseurl }}/images/santienclase.jpg" alt="Santi en clase" style="width: 400px;"/> | <img src="{{ site.baseurl }}/images/santienclase.jpg" alt="Santi en clase" style="width: 400px;"/> |
 
