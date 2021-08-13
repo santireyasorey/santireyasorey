@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Formando desde AtlanTICs
-permalink: /pages/atlantics/
+permalink: /atlantics/
 ---
 Tanto en mi ámbito profesional como en vida privada, observo constantemente como los padres y educadores tenemos muchas dudas en lo relacionado con las Tecnologías de la Información y la Comunicación (TIC's). No me estoy refiriendo a saber más o menos de informática, quiero decir que existen muchos falsos mitos, mucha lagunas que cubrir sobre lo que se debe o no se debe hacer y/o saber en Internet.
 
