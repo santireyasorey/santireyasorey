@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mis lios
-permalink: /pages/lios/
+permalink: /lios/
 ---
 > En esta vida nos van a recordar por nuestros actos.
 
