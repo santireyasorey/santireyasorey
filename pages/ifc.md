@@ -3,7 +3,6 @@ layout: page
 title: Internet de tu Color Favorito
 permalink: /pages/icf/
 ---
-## Internet de tu Color Favorito
 
 > O lo que viene siendo una escusa para seguir jugando con tus hermanos, como cuando éramos niños.
 
