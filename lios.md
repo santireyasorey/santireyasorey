@@ -18,6 +18,12 @@ Pero ojo, porque puede que acepte.
 
 > O lo que viene siendo una escusa para seguir jugando con tus hermanos, como cuando éramos niños.
 
+<figure>
+  <img src="{{ site.baseurl }}/images/lios/reybrothers1.jpg" alt="Los Rey Brothers"/>
+  <figcaption>Los Rey Brothers</figcaption>
+</figure>
+
+
 <img src="{{ site.baseurl }}/images/lios/reybrothers1.jpg" alt="Los Rey Brothers" style="width: 100%;"/>*image_caption*
 
 Uno de los proyectos más motivadores, para mi, que han surgido del seno de AtlanTICs. Era algo que tenía que pasar. La comunicación es algo que nos apasiona a los que formamos #InternetDeTuColorFavorito. Por eso teníamos que acabar haciendo este programa divulgativo que se realiza y produce desde AtlanTICs por unos absolutos "irresponsables" como somos los #ReyBrothers, expresión acuñada por Carlos Lagarón. 
